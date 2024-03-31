@@ -8,10 +8,14 @@ Se basa en agrupar codigo y datos dentro de una misma unidad llamada clase
 
 # Caracteristicas:
 Abstraccion
+
 Encapsulamiento
+
 Polimorfismo
+
 Herencia
+
 UML
 
-#Clases 
+# Clases 
 es una plantilla que permite construir objetos, posse atributos y metodos
